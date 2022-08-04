@@ -1,0 +1,1 @@
+{"os_count":[{"label":"RHEL Server 7.4","data":1}],"arch_count":[{"label":"x86_64","data":1}],"swap_size":4.0,"env_count":[{"label":"production","data":1}],"klass_count":[],"cpu_count":[{"label":"4","data":1},{"label":"2","data":1}],"model_count":[{"label":"VMware, Inc.","data":2}],"mem_size":8.7,"mem_free":10.4,"swap_free":3.5,"mem_totsize":17.5,"mem_totfree":10.4}

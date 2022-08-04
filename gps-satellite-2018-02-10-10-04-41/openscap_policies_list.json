@@ -1,0 +1,12 @@
+{
+  "total": 3,
+  "subtotal": 3,
+  "page": 1,
+  "per_page": 2000000,
+  "search": null,
+  "sort": {
+    "by": null,
+    "order": null
+  },
+  "results": [{"created_at":"2016-08-16 05:53:04 UTC","updated_at":"2017-12-11 14:18:55 UTC","id":1,"name":"OpenSCAPTest","period":"weekly","weekday":"sunday","description":"","scap_content_id":4,"scap_content_profile_id":12,"day_of_month":1,"cron_line":"*/5 * * * *"},{"created_at":"2017-12-08 20:58:26 UTC","updated_at":"2017-12-08 20:58:26 UTC","id":3,"name":"RHEL7","period":"weekly","weekday":"sunday","description":"anything RHEL 7","scap_content_id":4,"scap_content_profile_id":null,"day_of_month":1,"cron_line":""},{"created_at":"2016-08-16 06:11:40 UTC","updated_at":"2017-12-11 14:19:10 UTC","id":2,"name":"test2","period":"weekly","weekday":"sunday","description":"","scap_content_id":1,"scap_content_profile_id":1,"day_of_month":1,"cron_line":"*/5 * * * *"}]
+}

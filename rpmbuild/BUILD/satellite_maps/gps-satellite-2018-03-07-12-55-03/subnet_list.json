@@ -1,0 +1,12 @@
+{
+  "total": 1,
+  "subtotal": 1,
+  "page": 1,
+  "per_page": 2000000,
+  "search": null,
+  "sort": {
+    "by": null,
+    "order": null
+  },
+  "results": [{"network":"172.16.12.0","network_type":"IPv4","cidr":24,"mask":"255.255.255.0","priority":null,"vlanid":"12","gateway":"172.16.12.1","dns_primary":"172.16.0.12","dns_secondary":"172.16.0.14","from":"172.16.12.240","to":"172.16.12.254","created_at":"2017-04-11 16:51:16 UTC","updated_at":"2017-04-11 16:51:16 UTC","ipam":"DHCP","boot_mode":"DHCP","id":1,"name":"vlan12","network_address":"172.16.12.0/24","dhcp_id":null,"dhcp_name":null,"tftp_id":null,"tftp_name":null,"dns_id":null,"discovery_id":null,"discovery_name":null,"dhcp":null,"tftp":null,"dns":null,"discovery":null}]
+}

@@ -1,0 +1,12 @@
+{
+  "total": 2,
+  "subtotal": 2,
+  "page": 1,
+  "per_page": 2000000,
+  "search": null,
+  "sort": {
+    "by": null,
+    "order": null
+  },
+  "results": [{"description":"","url":"qemu+ssh://root@battalionbox.usersys.redhat.com/system","created_at":"2018-04-23 21:13:20 UTC","updated_at":"2018-04-23 21:45:27 UTC","id":1,"name":"battalionbox.usersys.redhat.com","provider":"Libvirt","provider_friendly_name":"Libvirt","display_type":"spice","set_console_password":false},{"description":"","url":"qemu+ssh://root@brigadebox.usersys.redhat.com/system","created_at":"2018-04-23 21:20:37 UTC","updated_at":"2018-04-23 21:37:25 UTC","id":2,"name":"brigadebox.usersys.redhat.com","provider":"Libvirt","provider_friendly_name":"Libvirt","display_type":"spice","set_console_password":false}]
+}

@@ -1,0 +1,12 @@
+{
+  "total": 14,
+  "subtotal": 14,
+  "page": 1,
+  "per_page": 2000000,
+  "search": null,
+  "sort": {
+    "by": null,
+    "order": null
+  },
+  "results": [{"name":"active","controller":"hosts","query":"last_report > \"35 minutes ago\" and (status.applied > 0 or status.restarted > 0)","public":true,"id":2,"owner_id":null,"owner_type":null},{"name":"disabled","controller":"hosts","query":"status.enabled = false","public":true,"id":5,"owner_id":null,"owner_type":null},{"name":"error","controller":"hosts","query":"last_report > \"35 minutes ago\" and (status.failed > 0 or status.failed_restarts > 0 or status.skipped > 0)","public":true,"id":4,"owner_id":null,"owner_type":null},{"name":"eventful","controller":"config_reports","query":"eventful = true","public":true,"id":1,"owner_id":null,"owner_type":null},{"name":"failed","controller":"foreman_tasks_tasks","query":"state = paused or result = error or result = warning","public":true,"id":8,"owner_id":null,"owner_type":null},{"name":"failed","controller":"job_invocations","query":"status = failed","public":true,"id":9,"owner_id":null,"owner_type":null},{"name":"ok hosts","controller":"hosts","query":"last_report > \"35 minutes ago\" and status.enabled = true and status.applied = 0 and status.failed = 0 and status.pending = 0","public":true,"id":6,"owner_id":null,"owner_type":null},{"name":"out of sync","controller":"hosts","query":"last_report < \"30 minutes ago\" and status.enabled = true","public":true,"id":3,"owner_id":null,"owner_type":null},{"name":"pending","controller":"job_invocations","query":"status = queued or status = running","public":true,"id":12,"owner_id":null,"owner_type":null},{"name":"recent","controller":"job_invocations","query":"started_at > \"24 hours ago\"","public":true,"id":14,"owner_id":null,"owner_type":null},{"name":"recurring","controller":"job_invocations","query":"recurring = true","public":true,"id":13,"owner_id":null,"owner_type":null},{"name":"running","controller":"job_invocations","query":"status = running","public":true,"id":11,"owner_id":null,"owner_type":null},{"name":"running","controller":"foreman_tasks_tasks","query":"state = running","public":true,"id":7,"owner_id":null,"owner_type":null},{"name":"succeeded","controller":"job_invocations","query":"status = succeeded","public":true,"id":10,"owner_id":null,"owner_type":null}]
+}

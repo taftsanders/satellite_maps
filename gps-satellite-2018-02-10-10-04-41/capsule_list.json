@@ -1,0 +1,12 @@
+{
+  "total": 3,
+  "subtotal": 3,
+  "page": 1,
+  "per_page": 2000000,
+  "search": null,
+  "sort": {
+    "by": null,
+    "order": null
+  },
+  "results": [{"created_at":"2016-08-13 20:04:19 UTC","updated_at":"2017-02-16 19:52:20 UTC","name":"batman.usersys.redhat.com","id":1,"url":"https://batman.usersys.redhat.com:9090","features":[{"name":"Pulp","id":2}]},{"created_at":"2016-12-16 21:53:35 UTC","updated_at":"2017-09-21 20:13:32 UTC","name":"joker.usersys.redhat.com","id":4,"url":"https://joker.usersys.redhat.com:9090","features":[{"name":"Pulp Node","id":3}]},{"created_at":"2016-11-27 21:13:39 UTC","updated_at":"2017-09-21 23:08:37 UTC","name":"riddler.usersys.redhat.com","id":3,"url":"https://riddler.usersys.redhat.com:9090","features":[{"name":"Pulp Node","id":3}]}]
+}

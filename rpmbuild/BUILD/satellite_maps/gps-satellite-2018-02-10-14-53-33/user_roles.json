@@ -1,0 +1,12 @@
+{
+  "total": 22,
+  "subtotal": 22,
+  "page": 1,
+  "per_page": 2000000,
+  "search": null,
+  "sort": {
+    "by": "name",
+    "order": "ASC"
+  },
+  "results": [{"builtin":0,"name":"Access Insights Admin","id":6},{"builtin":0,"name":"Access Insights Viewer","id":5},{"builtin":2,"name":"Anonymous","id":14},{"builtin":0,"name":"Boot disk access","id":1},{"builtin":0,"name":"Compliance manager","id":18},{"builtin":0,"name":"Compliance viewer","id":17},{"builtin":0,"name":"Create ARF report","id":19},{"builtin":1,"name":"Default user","id":13},{"builtin":0,"name":"Discovery Manager","id":16},{"builtin":0,"name":"Discovery Reader","id":15},{"builtin":0,"name":"Edit hosts","id":10},{"builtin":0,"name":"Edit partition tables","id":8},{"builtin":0,"name":"mail","id":22},{"builtin":0,"name":"Manager","id":7},{"builtin":0,"name":"Red Hat Access Logs","id":4},{"builtin":0,"name":"Remote Execution Manager","id":21},{"builtin":0,"name":"Remote Execution User","id":20},{"builtin":0,"name":"Site manager","id":12},{"builtin":0,"name":"Tasks Manager","id":2},{"builtin":0,"name":"Tasks Reader","id":3},{"builtin":0,"name":"Viewer","id":11},{"builtin":0,"name":"View hosts","id":9}]
+}

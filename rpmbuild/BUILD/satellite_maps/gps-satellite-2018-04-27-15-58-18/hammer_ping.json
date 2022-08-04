@@ -1,0 +1,1 @@
+  {"status":"ok","services":{"foreman_tasks":{"status":"ok","duration_ms":"485"},"foreman_auth":{},"candlepin":{"status":"ok","duration_ms":"24"},"candlepin_auth":{"status":"ok","duration_ms":"22"},"pulp":{"status":"ok","duration_ms":"26"},"pulp_auth":{"status":"ok","duration_ms":"20"}}}

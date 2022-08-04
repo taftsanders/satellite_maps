@@ -1,0 +1,12 @@
+{
+  "total": 4,
+  "subtotal": 4,
+  "page": 1,
+  "per_page": 2000000,
+  "search": null,
+  "sort": {
+    "by": null,
+    "order": null
+  },
+  "results": [{"created_at":"2016-08-16 05:46:57 UTC","updated_at":"2016-08-16 05:46:57 UTC","id":1,"title":"Red Hat firefox default content","original_filename":"ssg-firefox-ds.xml","digest":"654f841b9386f771d3999f855f28bfed01e2be4036774103e822950c1e4230aa"},{"created_at":"2016-08-16 05:46:58 UTC","updated_at":"2016-08-16 05:46:58 UTC","id":2,"title":"Red Hat jre default content","original_filename":"ssg-jre-ds.xml","digest":"fe93f99c14251cc76e92b9da71c351c8ba45fbd3639a2cd55911ef6f7db1b650"},{"created_at":"2016-08-16 05:47:01 UTC","updated_at":"2016-08-16 05:47:01 UTC","id":3,"title":"Red Hat rhel6 default content","original_filename":"ssg-rhel6-ds.xml","digest":"6298742afc45309f86ac467c0c9a3e433ff505dd3d237dd8cbf72be1a02937bb"},{"created_at":"2016-08-16 05:47:03 UTC","updated_at":"2016-08-16 05:47:03 UTC","id":4,"title":"Red Hat rhel7 default content","original_filename":"ssg-rhel7-ds.xml","digest":"96c2a9d5278d5da905221bbb2dc61d0ace7ee3d97f021fccac994d26296d986d"}]
+}

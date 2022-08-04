@@ -1,0 +1,12 @@
+{
+  "total": 2,
+  "subtotal": 2,
+  "page": 1,
+  "per_page": 2000000,
+  "search": null,
+  "sort": {
+    "by": null,
+    "order": null
+  },
+  "results": [{"admin":true,"created_at":"2017-07-06 21:02:35 UTC","updated_at":"2017-07-06 21:02:35 UTC","name":"ais_it_if_admin","id":8},{"admin":true,"created_at":"2018-01-05 22:52:44 UTC","updated_at":"2018-01-05 22:53:06 UTC","name":"sg_satellite_admins","id":10}]
+}

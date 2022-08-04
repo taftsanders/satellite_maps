@@ -1,0 +1,12 @@
+{
+  "total": 1,
+  "subtotal": 1,
+  "page": 1,
+  "per_page": 2000000,
+  "search": null,
+  "sort": {
+    "by": null,
+    "order": null
+  },
+  "results": [{"subnet_id":null,"subnet_name":null,"operatingsystem_id":null,"operatingsystem_name":null,"domain_id":null,"domain_name":null,"environment_id":null,"environment_name":null,"compute_profile_id":null,"compute_profile_name":null,"ancestry":null,"parent_id":null,"parent_name":null,"ptable_id":null,"ptable_name":null,"medium_id":null,"medium_name":null,"pxe_loader":null,"architecture_id":null,"architecture_name":null,"realm_id":null,"realm_name":null,"created_at":"2018-05-08 15:07:32 UTC","updated_at":"2018-05-08 22:00:32 UTC","id":1,"name":"puppet-test","title":"puppet-test","puppet_proxy_id":1,"puppet_proxy_name":"batman.usersys.redhat.com","puppet_ca_proxy_id":1,"puppet_ca_proxy_name":"batman.usersys.redhat.com","openscap_proxy_id":1,"openscap_proxy_name":"batman.usersys.redhat.com","puppet_proxy":{"name":"batman.usersys.redhat.com","id":1,"url":"https://batman.usersys.redhat.com:9090"},"puppet_ca_proxy":{"name":"batman.usersys.redhat.com","id":1,"url":"https://batman.usersys.redhat.com:9090"},"openscap_proxy":{"name":"batman.usersys.redhat.com","id":1,"url":"https://batman.usersys.redhat.com:9090"}}]
+}

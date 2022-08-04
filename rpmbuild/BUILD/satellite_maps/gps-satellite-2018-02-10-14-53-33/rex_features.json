@@ -1,0 +1,12 @@
+{
+  "total": 7,
+  "subtotal": 7,
+  "page": 1,
+  "per_page": 2000000,
+  "search": null,
+  "sort": {
+    "by": null,
+    "order": null
+  },
+  "results": [{"id":7,"label":"katello_errata_install","name":"Katello: Install Errata","description":"Install errata via Katello interface","job_template_id":96,"job_template_name":"Install Errata - Katello SSH Default"},{"id":4,"label":"katello_group_install","name":"Katello: Install Package Group","description":"Install package group via Katello interface","job_template_id":97,"job_template_name":"Install Group - Katello SSH Default"},{"id":1,"label":"katello_package_install","name":"Katello: Install Package","description":"Install package via Katello interface","job_template_id":98,"job_template_name":"Install Package - Katello SSH Default"},{"id":6,"label":"katello_group_remove","name":"Katello: Remove Package Group","description":"Remove package group via Katello interface","job_template_id":99,"job_template_name":"Remove Group - Katello SSH Default"},{"id":3,"label":"katello_package_remove","name":"Katello: Remove Package","description":"Remove package via Katello interface","job_template_id":100,"job_template_name":"Remove Package - Katello SSH Default"},{"id":5,"label":"katello_group_update","name":"Katello: Update Package Group","description":"Update package group via Katello interface","job_template_id":101,"job_template_name":"Update Group - Katello SSH Default"},{"id":2,"label":"katello_package_update","name":"Katello: Update Package","description":"Update package via Katello interface","job_template_id":102,"job_template_name":"Update Package - Katello SSH Default"}]
+}

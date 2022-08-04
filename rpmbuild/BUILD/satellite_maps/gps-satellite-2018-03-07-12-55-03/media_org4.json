@@ -1,0 +1,12 @@
+{
+  "total": 3,
+  "subtotal": 3,
+  "page": 1,
+  "per_page": 2000000,
+  "search": null,
+  "sort": {
+    "by": null,
+    "order": null
+  },
+  "results": [{"path":"http://satellite6.lnx.aeroinfo.com/pulp/repos/boeing-vancouver/Library/content/dist/rhel/server/5/5.11/x86_64/kickstart/","os_family":"Redhat","created_at":"2017-04-06 02:24:58 UTC","updated_at":"2017-04-06 02:24:58 UTC","id":9,"name":"boeing-vancouver/Library/Red_Hat_Server/Red_Hat_Enterprise_Linux_5_Server_Kickstart_x86_64_5_11"},{"path":"http://satellite6.lnx.aeroinfo.com/pulp/repos/boeing-vancouver/Library/content/dist/rhel/server/6/6.9/x86_64/kickstart/","os_family":"Redhat","created_at":"2017-04-06 02:27:44 UTC","updated_at":"2017-04-06 02:27:44 UTC","id":11,"name":"boeing-vancouver/Library/Red_Hat_Server/Red_Hat_Enterprise_Linux_6_Server_Kickstart_x86_64_6_9"},{"path":"http://satellite6.lnx.aeroinfo.com/pulp/repos/boeing-vancouver/Library/content/dist/rhel/server/7/7.3/x86_64/kickstart/","os_family":"Redhat","created_at":"2017-04-06 02:26:51 UTC","updated_at":"2017-04-06 02:26:51 UTC","id":10,"name":"boeing-vancouver/Library/Red_Hat_Server/Red_Hat_Enterprise_Linux_7_Server_Kickstart_x86_64_7_3"}]
+}

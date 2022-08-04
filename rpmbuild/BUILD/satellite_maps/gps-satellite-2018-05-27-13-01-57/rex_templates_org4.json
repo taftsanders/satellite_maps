@@ -1,0 +1,12 @@
+{
+  "total": 14,
+  "subtotal": 14,
+  "page": 1,
+  "per_page": 2000000,
+  "search": null,
+  "sort": {
+    "by": null,
+    "order": null
+  },
+  "results": [{"id":109,"name":"Install Errata - Katello SSH Default","job_category":"Katello","provider_type":"SSH","snippet":false,"description_format":"Install errata %{errata}"},{"id":110,"name":"Install Group - Katello SSH Default","job_category":"Katello","provider_type":"SSH","snippet":false,"description_format":"Install package group(s) %{package}"},{"id":111,"name":"Install Package - Katello SSH Default","job_category":"Katello","provider_type":"SSH","snippet":false,"description_format":"Install package(s) %{package}"},{"id":104,"name":"Package Action - SSH Default","job_category":"Packages","provider_type":"SSH","snippet":false,"description_format":"%{action} package(s) %{package}"},{"id":105,"name":"Power Action - SSH Default","job_category":"Power","provider_type":"SSH","snippet":false,"description_format":"%{action} host"},{"id":106,"name":"Puppet Run Once - SSH Default","job_category":"Puppet","provider_type":"SSH","snippet":false,"description_format":"Run Puppet once with \"%{puppet_options}\""},{"id":112,"name":"Remove Group - Katello SSH Default","job_category":"Katello","provider_type":"SSH","snippet":false,"description_format":"Remove package group(s) %{package}"},{"id":113,"name":"Remove Package - Katello SSH Default","job_category":"Katello","provider_type":"SSH","snippet":false,"description_format":"Remove package(s) %{package}"},{"id":114,"name":"Restart Services - Katello SSH Default","job_category":"Katello","provider_type":"SSH","snippet":false,"description_format":"Restart Services"},{"id":107,"name":"Run Command - SSH Default","job_category":"Commands","provider_type":"SSH","snippet":false,"description_format":"Run %{command}"},{"id":126,"name":"Run OpenSCAP scans","job_category":"OpenSCAP","provider_type":"SSH","snippet":false,"description_format":"Run scan for all OpenSCAP policies on host"},{"id":108,"name":"Service Action - SSH Default","job_category":"Services","provider_type":"SSH","snippet":false,"description_format":"%{action} service %{service}"},{"id":115,"name":"Update Group - Katello SSH Default","job_category":"Katello","provider_type":"SSH","snippet":false,"description_format":"Install package group(s) %{package}"},{"id":116,"name":"Update Package - Katello SSH Default","job_category":"Katello","provider_type":"SSH","snippet":false,"description_format":"Update package(s) %{package}"}]
+}

@@ -1,0 +1,12 @@
+{
+  "total": 1,
+  "subtotal": 1,
+  "page": 1,
+  "per_page": 2000000,
+  "search": null,
+  "sort": {
+    "by": null,
+    "order": null
+  },
+  "results": [{"name":"test","enabled":true,"hostgroup_id":1,"hostgroup_name":"PuppetGroup","hostname":"","priority":0,"search":"ip = 192.168.100.10","hosts_limit":0,"id":1,"hosts":[]}]
+}

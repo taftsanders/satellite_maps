@@ -1,0 +1,12 @@
+{
+  "total": 4,
+  "subtotal": 4,
+  "page": 1,
+  "per_page": 2000000,
+  "search": null,
+  "sort": {
+    "by": null,
+    "order": null
+  },
+  "results": [{"path":"http://usstlecpzzzzz07.emrsn.org/pulp/repos/GDC-EMR/Library/content/dist/rhel/server/6/6.8/x86_64/kickstart/","os_family":"Redhat","created_at":"2017-09-22 11:31:38 -0500","updated_at":"2017-10-30 12:22:59 -0500","id":10,"name":"GDC-EMR/Library/Red_Hat_Server/Red_Hat_Enterprise_Linux_6_Server_Kickstart_x86_64_6_8"},{"path":"http://usstlecpzzzzz07.emrsn.org/pulp/repos/GDC-EMR/Library/content/dist/rhel/server/6/6.9/x86_64/kickstart/","os_family":"Redhat","created_at":"2017-09-22 11:31:38 -0500","updated_at":"2017-10-30 12:23:06 -0500","id":11,"name":"GDC-EMR/Library/Red_Hat_Server/Red_Hat_Enterprise_Linux_6_Server_Kickstart_x86_64_6_9"},{"path":"http://usstlecpzzzzz07.emrsn.org/pulp/repos/GDC-EMR/Library/content/dist/rhel/server/7/7.3/x86_64/kickstart/","os_family":"Redhat","created_at":"2017-09-22 10:41:56 -0500","updated_at":"2017-10-30 12:22:41 -0500","id":9,"name":"GDC-EMR/Library/Red_Hat_Server/Red_Hat_Enterprise_Linux_7_Server_Kickstart_x86_64_7_3"},{"path":"http://usstlecpzzzzz07.emrsn.org/pulp/repos/GDC-EMR/Library/content/dist/rhel/server/7/7.4/x86_64/kickstart/","os_family":"Redhat","created_at":"2017-09-22 21:02:06 -0500","updated_at":"2017-10-30 12:22:48 -0500","id":12,"name":"GDC-EMR/Library/Red_Hat_Server/Red_Hat_Enterprise_Linux_7_Server_Kickstart_x86_64_7_4"}]
+}

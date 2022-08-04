@@ -1,0 +1,12 @@
+{
+  "total": 6,
+  "subtotal": 6,
+  "page": 1,
+  "per_page": 2000000,
+  "search": null,
+  "sort": {
+    "by": null,
+    "order": null
+  },
+  "results": [{"description":null,"major":"6","minor":"9","family":"Redhat","release_name":null,"password_hash":"SHA256","created_at":"2018-03-22 14:30:53 UTC","updated_at":"2018-03-22 14:30:53 UTC","id":2,"name":"RedHat","title":"RedHat 6.9"},{"description":null,"major":"7","minor":"2","family":"Redhat","release_name":null,"password_hash":"SHA256","created_at":"2018-03-22 14:43:53 UTC","updated_at":"2018-03-22 14:43:53 UTC","id":5,"name":"RedHat","title":"RedHat 7.2"},{"description":null,"major":"7","minor":"3","family":"Redhat","release_name":null,"password_hash":"SHA256","created_at":"2018-03-22 14:44:07 UTC","updated_at":"2018-03-22 14:44:07 UTC","id":6,"name":"RedHat","title":"RedHat 7.3"},{"description":null,"major":"7","minor":"4","family":"Redhat","release_name":null,"password_hash":"SHA256","created_at":"2018-03-02 18:14:48 UTC","updated_at":"2018-03-02 18:14:48 UTC","id":1,"name":"RedHat","title":"RedHat 7.4"},{"description":"RHEL Server 6.7","major":"6","minor":"7","family":"Redhat","release_name":null,"password_hash":"SHA256","created_at":"2018-03-22 14:42:37 UTC","updated_at":"2018-03-23 15:10:37 UTC","id":3,"name":"RedHat","title":"RHEL Server 6.7"},{"description":"RHEL Server 6.8","major":"6","minor":"8","family":"Redhat","release_name":null,"password_hash":"SHA256","created_at":"2018-03-22 14:43:23 UTC","updated_at":"2018-03-23 15:18:04 UTC","id":4,"name":"RedHat","title":"RHEL Server 6.8"}]
+}

@@ -1,0 +1,12 @@
+{
+  "total": 6,
+  "subtotal": 6,
+  "page": 1,
+  "per_page": 2000000,
+  "search": null,
+  "sort": {
+    "by": null,
+    "order": null
+  },
+  "results": [{"path":"http://batman.usersys.redhat.com/pulp/repos/Base_Org/Library/content/dist/rhel/server/5/5.11/x86_64/kickstart/","os_family":"Redhat","created_at":"2017-02-24 15:14:07 UTC","updated_at":"2017-02-24 15:14:07 UTC","id":12,"name":"Base_Org/Library/Red_Hat_Server/Red_Hat_Enterprise_Linux_5_Server_Kickstart_x86_64_5_11"},{"path":"http://batman.usersys.redhat.com/pulp/repos/Base_Org/Library/content/dist/rhel/server/6/6.8/x86_64/kickstart/","os_family":"Redhat","created_at":"2016-08-23 12:09:17 UTC","updated_at":"2016-08-23 12:09:17 UTC","id":10,"name":"Base_Org/Library/Red_Hat_Server/Red_Hat_Enterprise_Linux_6_Server_Kickstart_x86_64_6_8"},{"path":"http://batman.usersys.redhat.com/pulp/repos/Base_Org/Library/content/dist/rhel/server/7/7.2/x86_64/kickstart/","os_family":"Redhat","created_at":"2016-08-15 16:02:51 UTC","updated_at":"2016-08-24 16:45:56 UTC","id":9,"name":"Base_Org/Library/Red_Hat_Server/Red_Hat_Enterprise_Linux_7_Server_Kickstart_x86_64_7_2"},{"path":"http://batman.usersys.redhat.com/pulp/repos/Base_Org/Library/content/dist/rhel/server/7/7.3/x86_64/kickstart/","os_family":"Redhat","created_at":"2016-12-29 22:20:45 UTC","updated_at":"2016-12-30 15:02:56 UTC","id":11,"name":"Base_Org/Library/Red_Hat_Server/Red_Hat_Enterprise_Linux_7_Server_Kickstart_x86_64_7_3"},{"path":"http://batman.usersys.redhat.com/pulp/repos/Base_Org/Library/content/dist/rhel/server/7/7.4/x86_64/kickstart/","os_family":"Redhat","created_at":"2017-09-15 16:17:52 UTC","updated_at":"2017-09-15 16:17:52 UTC","id":14,"name":"Base_Org/Library/Red_Hat_Server/Red_Hat_Enterprise_Linux_7_Server_Kickstart_x86_64_7_4"},{"path":"http://joker.usersys.redhat.com/pulp/repos/Base_Org/Library/content/dist/rhel/server/7/7.3/x86_64/kickstart/","os_family":"Redhat","created_at":"2017-08-29 15:59:29 UTC","updated_at":"2017-08-29 15:59:29 UTC","id":13,"name":"joker7.3"}]
+}

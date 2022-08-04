@@ -1,0 +1,12 @@
+{
+  "total": 1,
+  "subtotal": 1,
+  "page": 1,
+  "per_page": 2000000,
+  "search": null,
+  "sort": {
+    "by": null,
+    "order": null
+  },
+  "results": [{"ip":"10.22.218.193","mac":"00:50:56:b6:51:be","last_report":"2018-04-26 08:02:43 -0500","subnet_id":169,"subnet_name":"MTN dev db oracle 3761","model_name":"VMware Virtual Platform","memory":1985,"disk_count":3,"disks_size":86224,"cpus":2,"organization_id":1,"organization_name":"GDC-EMR","location_id":3,"location_name":"mtn","name":"mac005056b651be","id":136}]
+}

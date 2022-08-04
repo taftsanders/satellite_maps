@@ -1,0 +1,12 @@
+{
+  "total": 2,
+  "subtotal": 2,
+  "page": 1,
+  "per_page": 2000000,
+  "search": null,
+  "sort": {
+    "by": null,
+    "order": null
+  },
+  "results": [{"subnet_id":null,"subnet_name":null,"operatingsystem_id":null,"operatingsystem_name":null,"domain_id":null,"domain_name":null,"environment_id":2,"environment_name":"KT_Base_Org_Library_hotboxCV_2","compute_profile_id":null,"compute_profile_name":null,"ancestry":null,"parent_id":null,"parent_name":null,"puppet_proxy_id":1,"puppet_ca_proxy_id":1,"ptable_id":null,"ptable_name":null,"medium_id":null,"medium_name":null,"architecture_id":null,"architecture_name":null,"realm_id":null,"realm_name":null,"created_at":"2016-08-16 01:59:13 UTC","updated_at":"2016-08-16 01:59:13 UTC","id":1,"name":"PuppetGroup","title":"PuppetGroup"},{"subnet_id":null,"subnet_name":null,"operatingsystem_id":2,"operatingsystem_name":"RedHat 7.2","domain_id":1,"domain_name":"usersys.redhat.com","environment_id":null,"environment_name":null,"compute_profile_id":null,"compute_profile_name":null,"ancestry":null,"parent_id":null,"parent_name":null,"puppet_proxy_id":1,"puppet_ca_proxy_id":1,"ptable_id":61,"ptable_name":"Kickstart default","medium_id":null,"medium_name":null,"architecture_id":1,"architecture_name":"x86_64","realm_id":null,"realm_name":null,"created_at":"2016-12-30 14:59:59 UTC","updated_at":"2016-12-30 14:59:59 UTC","id":2,"name":"vmbuild","title":"vmbuild"}]
+}

@@ -1,0 +1,12 @@
+{
+  "total": 1,
+  "subtotal": 1,
+  "page": 1,
+  "per_page": 2000000,
+  "search": null,
+  "sort": {
+    "by": null,
+    "order": null
+  },
+  "results": [{"url":"https://registry.access.redhat.com","description":"RHEL 7.4","created_at":"2018-02-08 22:07:03 UTC","updated_at":"2018-02-08 22:07:03 UTC","username":"USERNAME","id":1,"name":"RHEL7.4-152"}]
+}
